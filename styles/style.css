@@ -213,6 +213,7 @@ ol {
   width: fit-content;
   gap: 5px; 
 }
+
 .search-form__label-text {
   font-family: "Fira Sans Condensed", sans-serif;
   font-size: 18px;
