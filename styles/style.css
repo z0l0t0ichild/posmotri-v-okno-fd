@@ -129,8 +129,9 @@ ol {
 }
 
 .search-form__submit-button {
-  width: 194px;
   height: 34px;
+  align-self: flex-end;
+  width: 194px;
 }
 
 .content__video-card-title {
@@ -287,11 +288,6 @@ ol {
   font-weight: 700;
   font-size: 18px;
   cursor: pointer;
-}
-
-.search-form__submit-button {
-  height: 34px;
-  align-self: flex-end;
 }
 
 .more-button {
